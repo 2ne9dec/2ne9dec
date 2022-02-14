@@ -1,4 +1,4 @@
-# Привет! <img src="https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J" width="25px" />
+# Привет! <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="25px"/>
 
 ### Меня зовут Вадим, и я фронтенд-разработчик!
 
