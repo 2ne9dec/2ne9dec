@@ -1,4 +1,12 @@
-### Hi there 👋
+# Привет! <img src="https://giphy.com/gifs/hello-hi-greetings-MPxg9U887PS0B8XT4J" width="25px" />
+
+### Меня зовут Вадим, и я фронтенд-разработчик!
+
+**Мой технологический стек:**
+* HTML5/CCS3/SCSS
+* JavaScript
+* ReactJs
+* Redux
 
 <!--
 **2ne9dec/2ne9dec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
