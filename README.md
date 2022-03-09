@@ -1,10 +1,10 @@
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vadim</h1>
 
-## 🙋‍♂️ About Me
+## About Me
 
 I am a Web App developer and I love it. I love exploring new technologies and I like to stay on top of new trends.
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
