@@ -9,16 +9,21 @@ I am a Web App developer and I love it. I love exploring new technologies and I 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/sass.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://sass-lang.com/" target="_blank"> <img alt="Sass" height="48" src="/assets/img/logos/logo-b6e1ef6e.svg"> </a>
 </p>
 
 
-<br/>
+## My contacts:
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/vadim-astapenko-a247aa218/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png"/> </a>
+    <a href="https://www.instagram.com/vadim_astapenko/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/> </a>
+</p>
 
 <!--
 **2ne9dec/2ne9dec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
